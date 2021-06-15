@@ -1,12 +1,14 @@
-/* TODO: Label selector type */
+/* Set the font for all elements */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* Set background to light yellow for all body */
 body {
   background-color: lemonchiffon;
 }
+
+/* Sets attributes for both header and footer */
 
 header,
 footer {
@@ -17,17 +19,19 @@ footer {
   background-color: #191970;
 }
 
+/* Sets width and background color of figure element */
+
 figure {
   width: 200px;
-  background-color: #f0ead6;
+  background-color: #f0eredad6;
 }
 
-/* TODO: Label selector type */
+/* Sets elements with class .highlighted-text to bold */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* Sets background color with ID #contact-section to light yellow */
 #contact-section {
   background-color: #f0ead6;
 }
