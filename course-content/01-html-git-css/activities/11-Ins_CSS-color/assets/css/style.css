@@ -1,44 +1,21 @@
 .section {
-  /*Sets the height and width of the section */
   width: 200px;
-  height: 200px;
+  height: 100px;
 }
-
-/*.box-green {
-
-  
-  background-color: green;
-}*/
-
-.box-blue {
+.section-blue {
+background-color: blue;
   /* Sets font color */
-  color: white;
-  /* Sets background color */
-  background-color: #0000ff;
+  color: orange;
 }
-
-.box-orange {
-  /* Uses hex codes to define color */
-  color: #0000ff;
-  background-color: #ffa500;
+.container {
+background-color: black;
+color: white;
 }
-
-/*depending on which is defined last*/
-/*.box-green {
-  
-  background-color: green;
-}*/
-
-.box-black {
-  /* Uses predefined colors to define color */
-  
-  background-color: black;
+#section-1 {
+background-color: purple;
+  /* Sets font color */
+  color: yellow;
 }
-
-
-
-#box-yellow {
-  /* Uses predefined colors to define color */
-  color: purple;
-  background-color: yellow;
-};
+#section-6 {
+color: yellow;
+}
