@@ -1,8 +1,8 @@
-/* All */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
 
 /* Header */
 .header {
@@ -27,9 +27,7 @@ p {
     font-size: 16px;
 }
 
-/* Classes
-
-Header */
+/* Classes - Header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
